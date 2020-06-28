@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: vincentpfg/test-ncms
+  repo: vincentpfg/phoenix-2
 
 media_folder: static/img
 public_folder: /img
