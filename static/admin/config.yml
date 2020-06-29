@@ -7,6 +7,10 @@ public_folder: /img
 
 locale: fr
 
+publish_mode: editorial_workflow
+
+logo_url: /gridsome.svg
+
 collections:
   - name: blog
     label: Blog
